@@ -1,0 +1,36 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+body .collection_text {
+  color: #0a0506;
+  font-size: 24px;
+  font-weight: bold;
+}
+body .about_main .new_text strong {
+  color: #0a0506;
+}
+body .about_main .consectetur_text {
+  font-size: 14px;
+  margin: 20px 0;
+}
+body .racing_shoes .row .col-md-8 .shoes-img3 img {
+  max-width: 100%;
+  height: auto;
+}
+body .racing_shoes .row .col-md-4 .sale_text strong {
+  color: #0a0506;
+}
+body .racing_shoes .row .col-md-4 .sale_text strong span {
+  color: white;
+}
+body .racing_shoes .row .col-md-4 .number_text strong {
+  font-size: 24px;
+  color: #0a0506;
+}
+body .racing_shoes .row .col-md-4 .seemore {
+  background-color: #0a0506;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
